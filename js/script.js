@@ -16,3 +16,6 @@ console.log (message);
 
 // Inserimento risultato in html
 document.getElementById('password').innerHTML = message;
+
+
+
