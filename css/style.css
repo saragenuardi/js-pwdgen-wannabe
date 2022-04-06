@@ -1,0 +1,21 @@
+body {
+    font-family: 'Grape Nuts', cursive;
+    font-size: 100%;
+    background-color: lightblue
+}
+
+
+#password {
+    background-color: pink;
+    color: blueviolet;
+    font-size: 8rem;
+    border: yellowgreen 1px solid;
+    padding: 2rem;
+    border-radius: 50%;
+}
+
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+} 
